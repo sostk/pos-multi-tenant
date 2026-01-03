@@ -1,0 +1,5 @@
+packages:
+  - 'packages/app-frontend'
+  - 'packages/app-backend'
+  - 'packages/libs/ui'
+  - 'infra'
